@@ -32,7 +32,7 @@ Cocktail Advisor Chat is a chat application that leverages FastAPI, FAISS, and L
 1. **Clone the repository:**
 
    ```bash
-   git clone <your_repository_URL>
+   git clone https://github.com/olhalialina/coctail_advisor_chat
    cd cocktail_advisor_chat
 
 2. **Create a virtual environment (recommended):**
